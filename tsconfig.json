@@ -1,0 +1,7 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    // ...make TypeScript compiler tsc force you to follow specific rules of writing code in TypeScript
+    "strict": true
+  }
+}
